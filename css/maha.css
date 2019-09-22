@@ -16,6 +16,7 @@ section {
   padding: 2rem;
   background-color: lightblue;
   border-radius: 2em;
+  
 }
 
 .bgimg {
@@ -28,8 +29,6 @@ section {
   background-size: cover;
   background-attachment: fixed; /* fixed in viewport */
 }
-
-
 
 
 
