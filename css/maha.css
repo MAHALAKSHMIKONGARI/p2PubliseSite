@@ -1,17 +1,21 @@
-body {
+body
+{
   padding-top: 5rem;
 }
 
-body, html {
+body, html 
+{
   height: 100%;
 }
 
-.video-wrapper {
+.video-wrapper
+{
   width: 60%;
   background-color: lightblue;
 }
 
-section {
+section 
+{
   margin: 1rem;
   padding: 2rem;
   background-color: lightblue;
@@ -19,7 +23,8 @@ section {
   
 }
 
-.bgimg {
+.bgimg 
+{
   background-image: url("https://raw.githubusercontent.com/MAHALAKSHMIKONGARI/hello-world/master/20180506_105210.jpg");
   height: 100%;
   position: relative;
@@ -30,5 +35,20 @@ section {
   background-attachment: fixed; /* fixed in viewport */
 }
 
+#list
+{
+  text-decoration : underline;
+  text-decoration-color: hotpink;
+}
 
+#OL
+{
+  width:30%;
+  background-color: aqua;
+}
 
+#UL
+{
+  width:60%;
+  background-color: aqua;
+}
